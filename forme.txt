@@ -1,6 +1,18 @@
-https://confluence.walmart.com/display/SAINITCGCL/AODE+Stress+Testing
-12:52
-https://confluence.walmart.com/display/SAINITCGCL/Receipt+Check+QA
+•	https://jira.walmart.com/secure/RapidBoard.jspa?rapidView=25870&view=detail&selectedIssue=SAPI-958
+•	https://jira.walmart.com/secure/RapidBoard.jspa?rapidView=12071&view=detail&selectedIssue=SAOAE-3287
+
+•	https://ci.walmart.com/job/SamsOps/job/OneAppIOSBuild/ (used for signing)
+•	https://ci.walmart.com/job/samscluboper/ ( there are many by MyClub-* and data load are the big ones on FE)
 
 
-https://one.walmart.com/content/uswire/en_us/work1/home-office/information-security0/srcr-toolkit/srcr-intake.html
+•	https://sonar.looper.prod.walmartlabs.com/dashboard?id=MyClub-ReactNative
+•	https://sonar.looper.prod.walmartlabs.com/dashboard?id=MyClub-tasking-ReactNative (This will go away soon as per Bryan)
+
+•	https://gecgithub01.walmart.com/samscluboper/myclub-automation
+
+•	https://ci.walmart.com/job/samscluboper/job/kpi-sanity/
+•	https://ci.walmart.com/job/samscluboper/job/kpi-regression/
+•	https://ci.walmart.com/job/samscluboper/job/healthcheck/
+•	https://ci.walmart.com/job/samscluboper/job/dataload/
+•	https://ci.walmart.com/job/samscluboper/job/kpi-smoke/
+
